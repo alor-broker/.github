@@ -1,4 +1,4 @@
-![Open Source at Alor Broker](https://github.com/alor-broker/.github/blob/main/images/Github.png) 
+![Open Source at Alor Broker](https://github.com/alor-broker/.github/blob/master/images/Github.png) 
 
 ## Links
 
