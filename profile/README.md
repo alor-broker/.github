@@ -3,6 +3,7 @@
 ## Links
 
 * [Astras](https://github.com/alor-broker/Astras-Trading-UI/)
+* [Astras Docs (RU)](https://github.com/alor-broker/Astras-Docs)
 * [Website (RU)](https://alorbroker.ru)
 * [Telegram Chat (EN+RU)](https://t.me/alor_openapi_chat)
 * [OpenAPI docs (RU)](https://alor.dev/docs)
